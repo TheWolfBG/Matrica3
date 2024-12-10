@@ -1,0 +1,14 @@
+C:\Users\pc1_24\Desktop\papa furry\Matrica3\bin\Debug\net6.0\Matrica3.exe
+C:\Users\pc1_24\Desktop\papa furry\Matrica3\bin\Debug\net6.0\Matrica3.deps.json
+C:\Users\pc1_24\Desktop\papa furry\Matrica3\bin\Debug\net6.0\Matrica3.runtimeconfig.json
+C:\Users\pc1_24\Desktop\papa furry\Matrica3\bin\Debug\net6.0\Matrica3.dll
+C:\Users\pc1_24\Desktop\papa furry\Matrica3\bin\Debug\net6.0\Matrica3.pdb
+C:\Users\pc1_24\Desktop\papa furry\Matrica3\obj\Debug\net6.0\Matrica3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1_24\Desktop\papa furry\Matrica3\obj\Debug\net6.0\Matrica3.AssemblyInfoInputs.cache
+C:\Users\pc1_24\Desktop\papa furry\Matrica3\obj\Debug\net6.0\Matrica3.AssemblyInfo.cs
+C:\Users\pc1_24\Desktop\papa furry\Matrica3\obj\Debug\net6.0\Matrica3.csproj.CoreCompileInputs.cache
+C:\Users\pc1_24\Desktop\papa furry\Matrica3\obj\Debug\net6.0\Matrica3.dll
+C:\Users\pc1_24\Desktop\papa furry\Matrica3\obj\Debug\net6.0\refint\Matrica3.dll
+C:\Users\pc1_24\Desktop\papa furry\Matrica3\obj\Debug\net6.0\Matrica3.pdb
+C:\Users\pc1_24\Desktop\papa furry\Matrica3\obj\Debug\net6.0\Matrica3.genruntimeconfig.cache
+C:\Users\pc1_24\Desktop\papa furry\Matrica3\obj\Debug\net6.0\ref\Matrica3.dll
